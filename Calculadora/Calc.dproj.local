@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2021/02/23 15:18:39.000.844,=C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/23 15:19:09.000.620,=C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2021/02/23 17:42:51.000.022,C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.fmx</Transaction>
+    <Transaction>2021/02/23 17:42:51.000.022,C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2021/02/23 17:43:01.000.676,C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Calc.dproj</Transaction>
+    <Transaction>2021/02/24 16:56:06.000.898,C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Calcu.fmx=C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.fmx</Transaction>
+    <Transaction>2021/02/24 16:56:06.000.898,C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Calcu.pas=C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Unit1.pas</Transaction>
+    <Transaction>2021/02/24 16:56:27.000.740,C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Form1.fmx=C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Calcu.fmx</Transaction>
+    <Transaction>2021/02/24 16:56:27.000.740,C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Form1.pas=C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Calcu.pas</Transaction>
+    <Transaction>2021/02/24 16:58:18.000.151,C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Form1.fmx=C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Calculadora_Projeto.fmx</Transaction>
+    <Transaction>2021/02/24 16:58:18.000.151,C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Form1.pas=C:\Users\eliualves\Documents\Embarcadero\Studio\Projects\Calculadora\Calculadora_Projeto.pas</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<NoProfile iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
